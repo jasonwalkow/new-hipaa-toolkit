@@ -203,6 +203,47 @@ img{
   z-index: 9;
 }
 
+.buy-now {
+  position: fixed;
+  bottom: 60px;
+  right: 100px;
+  background-color: #72b747;
+  padding: 1rem;
+  border: none;
+  border-radius: 1px;
+  z-index: 9999;
+  text-decoration: none;
+  color: #fff;
+  width: 100px;
+  height: 50px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.buy-now:hover {
+  background-color: #fff;
+  border: 1px solid #72b747;
+  color: #72b747;
+}
+
+.buy-now > a {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.9;
+  font-size: 1.25rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+
+.buy-now > a:hover {
+  color: #72b747;
+  text-decoration: none;
+  opacity: 0.9;
+}
+
 /*===SLIDER NAVIGATIONS==*/
 
 .slides-navigation a {
@@ -379,7 +420,7 @@ img{
 /* ABOUT SECTION */
 /*--------------------*/
 
-#about {
+#overview {
   display: inline;
   float: left;
   width: 100%;
@@ -539,7 +580,7 @@ div[data-dimension] {
 /* SERVICE SECTION */
 /*--------------------*/
 
-#service {
+#details {
   display: inline;
   float: left;
   padding: 80px 0 70px;
@@ -605,7 +646,7 @@ div[data-dimension] {
 /* Works SECTION */
 /*--------------------*/
 
-#works {
+#samples {
   background-color: #4f535e;
   display: inline;
   float: left;
@@ -879,7 +920,7 @@ div[data-dimension] {
 /* BLOG SECTION */
 /*--------------------*/
 
-#blog{
+#news{
 	float: left;
 	display: inline;
 	width: 100%;

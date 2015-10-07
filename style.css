@@ -651,8 +651,8 @@ div[data-dimension] {
 /* Works SECTION */
 /*--------------------*/
 
-#samples {
-  background-color: #4f535e;
+#products {
+  background-color: #313131;
   display: inline;
   float: left;
   padding: 0 0 80px;
@@ -697,7 +697,7 @@ div[data-dimension] {
   font-size: 40px;
 }
 .portfolio_area {
-  background: none repeat scroll 0 0 #4f535e;
+  background: none repeat scroll 0 0 #313131;
   color: #fff;
   display: inline;
   float: left;
@@ -778,7 +778,7 @@ div[data-dimension] {
   border-radius: 5px;
   display: inline;
   float: left;
-  padding: 25px 15px;
+  padding: 25px 10px;
   text-align: center;
   width: 100%;
 }

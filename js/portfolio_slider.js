@@ -9,7 +9,7 @@ $("#elastic_grid_demo").elastic_grid({
 		[
 			{
 			'title' : 'Policies & Procedures',
-			'description'   : 'HIPAA Policies and Procedures are an essential component in compliance.',
+			'description'   : 'The HIPAA Toolkit contains a complete set of policies and procedures customizable for all types of healthcare providers and business associates.',
 			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/2.jpg', 'img/portfolio/small/3.jpg', 'img/portfolio/small/4.jpg', 'img/portfolio/small/11.jpg'],
 			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/2.jpg', 'img/portfolio/large/3.jpg', 'img/portfolio/large/4.jpg', 'img/portfolio/large/11.jpg'],
 			'button_list'   :
@@ -22,7 +22,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Education Portal',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
+			'description'   : "The HIPAA Toolkit’s online education portal has everything that your organization needs to get you and your staff trained for HIPAA compliance.",
 			'thumbnail' : ['img/portfolio/small/4.jpg', 'img/portfolio/small/5.jpg', 'img/portfolio/small/6.jpg', 'img/portfolio/small/7.jpg'],
 			'large' : ['img/portfolio/large/4.jpg', 'img/portfolio/large/5.jpg', 'img/portfolio/large/6.jpg', 'img/portfolio/large/7.jpg'],
 			'button_list'   :
@@ -35,7 +35,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Monthly Live Webinar',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
+			'description'   : 'he HIPAA Toolkit includes monthly live HIPAA Compliance Webinars from a Certified Healthcare Compliance (CHC) Consultant.',
 			'thumbnail' : ['img/portfolio/small/15.jpg','img/portfolio/small/8.jpg', 'img/portfolio/small/9.jpg', 'img/portfolio/small/10.jpg'],
 			'large' : ['img/portfolio/large/15.jpg','img/portfolio/large/8.jpg', 'img/portfolio/large/9.jpg', 'img/portfolio/large/10.jpg'],
 			'button_list'   :
@@ -48,7 +48,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Training Materials',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
+			'description'   : "The HIPAA Toolkit contains a complete set of HIPAA compliance training materials customizable for your organization’s educational needs.",
 			'thumbnail' : ['img/portfolio/small/12.jpg', 'img/portfolio/small/13.jpg', 'img/portfolio/small/14.jpg', 'img/portfolio/small/15.jpg', 'img/portfolio/small/16.jpg'],
 			'large' : ['img/portfolio/large/12.jpg', 'img/portfolio/large/13.jpg', 'img/portfolio/large/14.jpg', 'img/portfolio/large/15.jpg', 'img/portfolio/large/16.jpg'],
 			'button_list'   :
@@ -61,7 +61,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Monthly Newsletter',
-			'description'   : '*Free for one month with purchase of HIPAA Toolkit.',
+			'description'   : 'Read the latest HIPAA news in our monthly HIPAA newsletter and stay up-to-date on recent enforcement actions, major litigation, and OIG guidance. *Free with purchase of HIPAA Toolkit.',
 			'thumbnail' : ['img/portfolio/small/17.jpg', 'img/portfolio/small/18.jpg', 'img/portfolio/small/19.jpg', 'img/portfolio/small/20.jpg'],
 			'large' : ['img/portfolio/large/17.jpg', 'img/portfolio/large/18.jpg', 'img/portfolio/large/19.jpg', 'img/portfolio/large/20.jpg'],
 			'button_list'   :
@@ -74,7 +74,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Blog Access',
-			'description'   : '*Free for one month with purchase of HIPAA Toolkit.',
+			'description'   : 'Gain insight into the healthcare industry and learn about the latest in HIPAA best-practices from thought-leaders. *Free with purchase of HIPAA Toolkit.',
 			'thumbnail' : ['img/portfolio/small/13.jpg','img/portfolio/small/15.jpg', 'img/portfolio/small/11.jpg', 'img/portfolio/small/10.jpg'],
 			'large' : ['img/portfolio/large/13.jpg','img/portfolio/large/15.jpg', 'img/portfolio/large/11.jpg', 'img/portfolio/large/10.jpg'],
 			'button_list'   :
@@ -87,7 +87,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'HIPAA Handouts',
-			'description'   : '*Free for one month with purchase of HIPAA Toolkit.',
+			'description'   : 'Our handouts include a HIPAA F.A.Q., one-pagers for Privacy Officers, HIPAA flyers, and other resources to help you promote HIPAA compliance. *Free with purchase of HIPAA Toolkit.',
 			'thumbnail' : ['img/portfolio/small/7.jpg','img/portfolio/small/8.jpg', 'img/portfolio/small/9.jpg', 'img/portfolio/small/10.jpg'],
 			'large' : ['img/portfolio/large/7.jpg','img/portfolio/large/8.jpg', 'img/portfolio/large/9.jpg', 'img/portfolio/large/10.jpg'],
 			'button_list'   :
@@ -100,7 +100,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Regulatory Updates',
-			'description'   : '*Free for one month with purchase of HIPAA Toolkit.',
+			'description'   : "We’ll let you know about important changes to HIPAA rules and regulations as soon as information is released through fast-breaking Regulatory Updates. *Free with purchase of HIPAA Toolkit.",
 			'thumbnail' : ['img/portfolio/small/16.jpg', 'img/portfolio/small/13.jpg', 'img/portfolio/small/14.jpg', 'img/portfolio/small/15.jpg', 'img/portfolio/small/16.jpg'],
 			'large' : ['img/portfolio/large/16.jpg', 'img/portfolio/large/13.jpg', 'img/portfolio/large/14.jpg', 'img/portfolio/large/15.jpg', 'img/portfolio/large/16.jpg'],
 			'button_list'   :

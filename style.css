@@ -483,8 +483,7 @@ img{
   color: #222;
   font-family: 'Varela', sans-serif;
   font-size: 20px;
-  font-weight: 400;
-  text-transform: uppercase;
+  font-weight: 600;
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
@@ -1155,6 +1154,7 @@ div[data-dimension] {
   padding: 25px 0px;
 }
 .single_client>img{
+  width: 100px;
 	margin: 0 auto;
 }
 .clients_slider .slick-prev {
@@ -1162,14 +1162,18 @@ div[data-dimension] {
   color: #fff;
   height: 40px;
   left: 46.5%;
-  top: 160%;
+  top: 120%;
 }
 .clients_slider .slick-next {
   border-radius: 0 5px 5px 0;
   color: #fff;
   right: 46.5%;
-  top: 160%;
+  top: 120%;
   height: 40px;
+}
+
+.client-addition {
+  padding: 0rem 0.5rem;
 }
 
 /*--------------------*/

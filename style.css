@@ -181,7 +181,7 @@ img{
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   background-color: transparent;
-  color: #fff;
+  color: #72b747;
 }
 
 /*--------/menu_area-------- */
@@ -193,7 +193,17 @@ img{
 	position: relative;
 }
 .slider_overlay {
-  background: none repeat scroll 0 0 #242424;
+  background: none repeat scroll 0 0 #000;
+  height: 100%;
+  opacity: 0.8;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 9;
+}
+.slider_overlay2 {
+  background: none repeat scroll 0 0 #000;
   height: 100%;
   opacity: 0.5;
   position: absolute;
@@ -380,7 +390,7 @@ img{
 /*===SLIDER CAPTION===*/
 
 .slider_caption {
-  margin-top: 12%;
+  margin-top: 20%;
   padding: 0 13%;
   position: relative;
   text-align: center;
@@ -388,7 +398,7 @@ img{
 }
 .slider_caption > h2 {
   color: #72b747;
-  font-size: 65px;
+  font-size: 75px;
   font-weight: 700;
   line-height: 76px;
   margin: 0 auto 10px;
@@ -406,14 +416,17 @@ img{
 }
 .slider_btn{
 	padding: 10px 15px;
-	border: 2px solid #fff;
 	color: #fff;
+  background-color: #72b747;
+  border-radius: 2px;
 	font-size: 20px;
 	display: inline-block;
 	text-transform: uppercase;
 }
 .slider_btn:hover,.slider_btn:focus{
 	text-decoration: none;
+  color: #fff;
+  opacity: 0.9;
 }
 
 /*--------------------*/
@@ -524,6 +537,7 @@ img{
   font-weight: bold;
   text-align: center;
   font-family: 'Montserrat';
+  border: 2px solid #ededed;
 }
 .single_iteam img {
   max-width: 100%;

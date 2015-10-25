@@ -1211,7 +1211,6 @@ div[data-dimension] {
   padding-bottom: 30px;
 }
 .contact_map {
-  border: 1px solid #ccc;
   display: inline;
   float: left;
   width: 100%;
@@ -1513,6 +1512,7 @@ textarea .form-control {
 	.wagwep-container ul#portfolio-filter li {width: auto;}
 	.wagwep-container ul#portfolio-filter a {font-size: 10px;margin: 0 0 2px;padding: 5px;text-align: center;text-indent: 0;}
 	.blog_slider .slick-prev {left: 81.5%;} 
+  .gallery-map {width: 100%;}
 	.clients_slider .slick-prev {left: 43%;}
 	.clients_slider .slick-next {right: 43%;}
 	.subscribe_form {width: 100%;}

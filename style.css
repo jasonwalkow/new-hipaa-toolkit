@@ -1168,7 +1168,6 @@ div[data-dimension] {
   padding: 25px 0px;
 }
 .single_client>img{
-  width: 100px;
 	margin: 0 auto;
 }
 .clients_slider .slick-prev {
@@ -1341,7 +1340,7 @@ textarea .form-control {
 }
 
 #contactFeature{
-	background-image: url("img/losang1.png");
+	background-image: url("img/hero-diamonds.png");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;	
 	position: relative;

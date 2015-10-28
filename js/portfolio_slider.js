@@ -14,8 +14,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/pandp.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['P&P Plan', 'HIPAA Toolkit', 'All']
 			},
@@ -27,21 +26,19 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/eduport.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Training Plan','All']
 			},
 
 			{
 			'title' : 'Monthly Live Webinar',
-			'description'   : 'he HIPAA Toolkit includes monthly live HIPAA Compliance Webinars from a Certified Healthcare Compliance (CHC) Consultant.',
+			'description'   : 'The HIPAA Toolkit includes monthly live HIPAA Compliance Webinars from a Certified Healthcare Compliance (CHC) Consultant.',
 			'thumbnail' : ['img/portfolio/small/liveweb.png'],
 			'large' : ['img/portfolio/large/liveweb.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Training Plan', 'All']
 			},
@@ -53,8 +50,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/trmat.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Training Plan','All']
 			},
@@ -66,8 +62,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/news.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Subscription','All']
 			},
@@ -79,8 +74,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/blog.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Subscription', 'All']
 			},
@@ -92,8 +86,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/handouts.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Subscription', 'All']
 			},
@@ -105,8 +98,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/regup.png'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
 			'tags'  : ['HIPAA Toolkit', 'Subscription', 'All']
 			}

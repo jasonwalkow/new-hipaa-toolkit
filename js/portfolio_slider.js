@@ -16,7 +16,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['P&P Plan', 'HIPAA Toolkit', 'All']
+			'tags'  : ['Policies Plan', 'HIPAA Toolkit', 'All']
 			},
 
 			{
@@ -56,6 +56,18 @@ $("#elastic_grid_demo").elastic_grid({
 			},
 
 			{
+			'title' : 'Risk Assessment',
+			'description'   : "The HIPAA Toolkit contains a risk assessment that should be used to identify risk areas within an organization.",
+			'thumbnail' : ['img/portfolio/small/assessment.png'],
+			'large' : ['img/portfolio/large/assessment.png'],
+			'button_list'   :
+			[
+			{ 'title':'SEE PRICING', 'url' : '#pricing' }
+			],
+			'tags'  : ['Policies Plan', 'HIPAA Toolkit', 'Risk Assessment','All']
+			},
+
+			{
 			'title' : 'Monthly Newsletter',
 			'description'   : 'Read the latest HIPAA news in our monthly HIPAA newsletter and stay up-to-date on recent enforcement actions, major litigation, and OIG guidance. *Free with purchase of HIPAA Toolkit.',
 			'thumbnail' : ['img/portfolio/small/news.png'],
@@ -64,7 +76,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Subscription','All']
+			'tags'  : ['HIPAA Toolkit', 'Updates','All']
 			},
 
 			{
@@ -76,7 +88,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Subscription', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Updates', 'All']
 			},
 
 			{
@@ -88,7 +100,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Subscription', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Training Plan', 'Updates', 'All']
 			},
 
 			{
@@ -100,7 +112,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Subscription', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Updates', 'All']
 			}
 		]
 	});

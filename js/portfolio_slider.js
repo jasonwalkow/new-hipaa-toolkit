@@ -16,7 +16,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['Policies Plan', 'HIPAA Toolkit', 'All']
+			'tags'  : ['Policies & Procedures Module', 'HIPAA Toolkit']
 			},
 
 			{
@@ -28,7 +28,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Training Plan','All']
+			'tags'  : ['HIPAA Toolkit', 'Training Module']
 			},
 
 			{
@@ -40,7 +40,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Training Plan', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Training Module']
 			},
 
 			{
@@ -52,7 +52,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Training Plan','All']
+			'tags'  : ['HIPAA Toolkit', 'Training Module']
 			},
 
 			{
@@ -64,31 +64,19 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['Policies Plan', 'HIPAA Toolkit', 'Risk Assessment','All']
+			'tags'  : ['Policies & Procedures Module', 'HIPAA Toolkit', 'Risk Assessment Module']
 			},
 
 			{
-			'title' : 'Monthly Newsletter',
-			'description'   : 'Read the latest HIPAA news in our monthly HIPAA newsletter and stay up-to-date on recent enforcement actions, major litigation, and OIG guidance. *Free with purchase of HIPAA Toolkit.',
-			'thumbnail' : ['img/portfolio/small/news.png'],
-			'large' : ['img/portfolio/large/news.png'],
-			'button_list'   :
-			[
-			{ 'title':'SEE PRICING', 'url' : '#pricing' }
-			],
-			'tags'  : ['HIPAA Toolkit', 'Updates','All']
-			},
-
-			{
-			'title' : 'Blog Access',
-			'description'   : 'Gain insight into the healthcare industry and learn about the latest in HIPAA best-practices from thought-leaders. *Free with purchase of HIPAA Toolkit.',
+			'title' : 'HIPAA News',
+			'description'   : 'Read the latest HIPAA news in our monthly HIPAA newsletter and have 24-7 access to our HIPAA blog. Stay up-to-date on recent enforcement actions, major litigation, OIG guidance, and best practices. *Free with purchase of HIPAA Toolkit.',
 			'thumbnail' : ['img/portfolio/small/blog.png'],
 			'large' : ['img/portfolio/large/blog.png'],
 			'button_list'   :
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Updates', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Updates Module']
 			},
 
 			{
@@ -100,7 +88,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Training Plan', 'Updates', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Training Module', 'Updates Module']
 			},
 
 			{
@@ -112,7 +100,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'SEE PRICING', 'url' : '#pricing' }
 			],
-			'tags'  : ['HIPAA Toolkit', 'Updates', 'All']
+			'tags'  : ['HIPAA Toolkit', 'Updates Module']
 			}
 		]
 	});
